@@ -22,30 +22,40 @@ h1{
    }
 
    #direita{
-   background-color: rgba(0, 0, 0, 0.85);
+  background-color: rgba(83,73,134,255);
     padding: 20px 30px;
     border-radius: 15px;
     position: relative;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     transition: transform 0.3s;
     color: white;
-    font-family: monospace;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0px 40px;
+    position: relative;
+    width: 55%;
+    box-sizing: border-box;
     float:right;
-font-size: 10px;
+    font-size: medium;
    }
 
    #esquerda{
-background-color: rgba(0, 0, 0, 0.85);
+background-color: rgba(150,147,164,255);
     padding: 20px 30px;
     border-radius: 15px;
     position: relative;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
     transition: transform 0.3s;
-    color: white;
-    font-family: monospace;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0px 40px;
+    position: relative;
+    width: 55%;
+    box-sizing: border-box;
     float:left;
-    font-size: 10px;
+    font-size: medium;
    }
+ 
+
 
 
 
