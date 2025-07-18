@@ -19,3 +19,33 @@ h1{
     transition: transform 0.3s;
     color: white;
     font-family: monospace;
+   }
+
+   #direita{
+   background-color: rgba(0, 0, 0, 0.85);
+    padding: 20px 30px;
+    border-radius: 15px;
+    position: relative;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s;
+    color: white;
+    font-family: monospace;
+    float:right;
+font-size: 10px;
+   }
+
+   #esquerda{
+background-color: rgba(0, 0, 0, 0.85);
+    padding: 20px 30px;
+    border-radius: 15px;
+    position: relative;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s;
+    color: white;
+    font-family: monospace;
+    float:left;
+    font-size: 10px;
+   }
+
+
+
